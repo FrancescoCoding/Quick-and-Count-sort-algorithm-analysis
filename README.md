@@ -9,6 +9,15 @@ This exercise required me to analyse, and make a critical comparison between, al
 ## Big O Reference
 ![image](https://user-images.githubusercontent.com/64712227/161385171-46ae1c79-666a-4587-ba8b-7d8a0ff8f3ac.png)
 
+## Terminology
+- Temporal complexity
+  - How long the algorithm takes to run.
+  - Obtained by counting the number of comparisons and the number of copies required.
+
+- Spatial complexity
+  - The resources the algorithm requires.
+  - Obtained by counting the number of additional array elements necessary to perform the algorithms.
+
 ## Report preview
 Open the report file to see the full analysis.
 
