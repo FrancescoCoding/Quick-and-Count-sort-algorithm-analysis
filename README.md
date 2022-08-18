@@ -18,7 +18,7 @@ This exercise required me to analyse, and make a critical comparison between, al
   - Obtained by counting the number of additional array elements necessary to perform the algorithms.
 
 ## Report preview
-- Open the report file to see the full analysis.  
+- Open the [report file](https://github.com/FrancescoCoding/Quick-and-Count-sort-algorithm-analysis/blob/main/Report/Algorithm_Analysis_Report_and_results.pptx) to see the full analysis.  
   - Page (2)
 
 ![image](https://user-images.githubusercontent.com/64712227/161385251-fb5401c3-12a0-45ab-9da0-d53c195fd6c1.png)
