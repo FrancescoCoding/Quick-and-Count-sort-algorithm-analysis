@@ -1,7 +1,7 @@
 # Quick Sort and Count Sort algorithm analysis in Big O Notation
 This exercise required me to analyse, and make a critical comparison between alternative designs of algorithms and data structures based on efficiency and scalability concerns.
 
-- In the code:
+## In the code:
   - **MainApp.java** – A Main class with a main() method for running. The main() method contains sample code that tests each algorithm.
   - **CountSort.java** – A class containing an implementation of Count Sort.
   - **QuickSort.java** – A class containing an implementation of Quick Sort.
