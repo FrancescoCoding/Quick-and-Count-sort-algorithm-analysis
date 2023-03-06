@@ -1,5 +1,8 @@
 # Quick Sort and Count Sort algorithm analysis in Big O Notation
-This exercise required me to analyse, and make a critical comparison between alternative designs of algorithms and data structures based on efficiency and scalability concerns.
+This exercise focuses on the analysis of two popular algorithms - Quick Sort and Count Sort - using Big O Notation to evaluate their temporal and spatial complexities. The analysis is done through sample code provided in the MainApp.java class which tests each algorithm. The CountSort.java class contains the implementation of Count Sort, while the QuickSort.java class contains the implementation of Quick Sort.
+
+The report discusses the efficiency and scalability concerns of both algorithms and provides a critical comparison of their designs.
+
 
 ## In the code:
   - **MainApp.java** – A Main class with a main() method for running. The main() method contains sample code that tests each algorithm.
